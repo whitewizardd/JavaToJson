@@ -4,28 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c807de9b-d972-446f-bb5c-c7f3a7c4fc75" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaToJson.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/africa/semicolon/deserialization/Kata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/africa/semicolon/serialization/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/africa/semicolon/serialization/Kata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/africa/semicolon/serialization/KataKata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/africa/semicolon/serialization/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/africa/semicolon/serialization/cars.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/africa/semicolon/serialization/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tryingJson/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tryingJson/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tryingJson/GeoGraphicalLocation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tryingJson/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tryingJson/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tryingJson/user.json" afterDir="false" />
+    <list default="true" id="c807de9b-d972-446f-bb5c-c7f3a7c4fc75" name="Changes" comment="Serialization">
+      <change beforePath="$PROJECT_DIR$/src/tryingJson/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tryingJson/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,8 +143,17 @@
       <updated>1692808958454</updated>
       <workItem from="1692808958514" duration="6922000" />
       <workItem from="1692830939245" duration="988000" />
-      <workItem from="1693389259610" duration="6884000" />
+      <workItem from="1693389259610" duration="7634000" />
     </task>
+    <task id="LOCAL-00001" summary="Serialization">
+      <option name="closed" value="true" />
+      <created>1693399520652</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1693399520652</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,5 +161,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Serialization" />
+    <option name="LAST_COMMIT_MESSAGE" value="Serialization" />
   </component>
 </project>
