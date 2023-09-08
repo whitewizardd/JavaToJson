@@ -16,6 +16,6 @@ public class IsogramTest {
     }
     @Test
     public void allAll(){
-        assertTrue(isogram.check("The qick brwn_ fx jumps ov lazy dGGG"));
+        assertTrue(isogram.check("The qick brwn9_ fx jumps ov lazy dGGG"));
     }
 }

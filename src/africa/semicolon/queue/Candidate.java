@@ -23,7 +23,6 @@ public class Candidate implements Comparable<Candidate>{
     public void setParty(String party) {
         this.party = party;
     }
-
     @Override
     public String toString() {
         return "Candidate{" +
