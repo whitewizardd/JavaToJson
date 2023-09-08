@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c807de9b-d972-446f-bb5c-c7f3a7c4fc75" name="Changes" comment="Serialization">
-      <change beforePath="$PROJECT_DIR$/src/tryingJson/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tryingJson/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/africa/semicolon/deserialization/Isogram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/africa/semicolon/queue/Candidate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/africa/semicolon/queue/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/IsogramTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaToJson.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaToJson.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,37 +38,43 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/Desktop/jackson&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/user/IdeaProjects/JavaToJson/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "true",
+    "Repository.Attach.JavaDocs": "true",
+    "Repository.Attach.Sources": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "create.test.in.the.same.root": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/user/Desktop/jackson",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "C:/Users/user/IdeaProjects/JavaToJson/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="africa.semicolon.serialization" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.tryingJson.Main">
-    <configuration name="Kata" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="africa.semicolon.serialization.Kata" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="africa.semicolon.queue.Main" />
       <module name="JavaToJson" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="africa.semicolon.serialization.*" />
+          <option name="PATTERN" value="africa.semicolon.queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,65 +82,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KataKata" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="africa.semicolon.serialization.KataKata" />
+    <configuration name="IsogramTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaToJson" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="africa.semicolon.serialization.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="IsogramTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="africa.semicolon.deserialization.Kata" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="africa.semicolon.deserialization.Kata" />
+    <configuration name="IsogramTest.allAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaToJson" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="africa.semicolon.deserialization.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="IsogramTest" />
+      <option name="METHOD_NAME" value="allAll" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="africa.semicolon.serialization.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="africa.semicolon.serialization.Main" />
+    <configuration name="IsogramTest.generatedResult" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaToJson" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="africa.semicolon.serialization.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="IsogramTest" />
+      <option name="METHOD_NAME" value="generatedResult" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="tryingJson.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tryingJson.Main" />
+    <configuration name="IsogramTest.generatedResult1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaToJson" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tryingJson.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="IsogramTest" />
+      <option name="METHOD_NAME" value="generatedResult1" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.tryingJson.Main" />
-        <item itemvalue="Application.africa.semicolon.deserialization.Kata" />
-        <item itemvalue="Application.KataKata" />
-        <item itemvalue="Application.Kata" />
-        <item itemvalue="Application.africa.semicolon.serialization.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.IsogramTest" />
+        <item itemvalue="JUnit.IsogramTest.allAll" />
+        <item itemvalue="JUnit.IsogramTest.generatedResult1" />
+        <item itemvalue="JUnit.IsogramTest.generatedResult" />
       </list>
     </recent_temporary>
   </component>
@@ -144,6 +142,9 @@
       <workItem from="1692808958514" duration="6922000" />
       <workItem from="1692830939245" duration="988000" />
       <workItem from="1693389259610" duration="7634000" />
+      <workItem from="1693809148086" duration="2837000" />
+      <workItem from="1693903342172" duration="398000" />
+      <workItem from="1694161524419" duration="10496000" />
     </task>
     <task id="LOCAL-00001" summary="Serialization">
       <option name="closed" value="true" />
