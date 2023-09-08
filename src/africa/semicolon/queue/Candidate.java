@@ -1,6 +1,6 @@
 package africa.semicolon.queue;
 
-public class Candidate {
+public class Candidate implements Comparable<Candidate>{
     private String name;
     private String party;
     public Candidate(String name, String party){
@@ -30,5 +30,10 @@ public class Candidate {
                 "name='" + name + '\'' +
                 ", party='" + party + '\'' +
                 '}';
+    }
+
+    @Override
+    public int compareTo(Candidate o) {
+        return 0;
     }
 }
