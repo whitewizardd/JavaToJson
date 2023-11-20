@@ -29,12 +29,12 @@ public class Main {
     public static void display(List<User> users){
         String location = "C:\\Users\\user\\IdeaProjects\\JavaToJson\\src\\tryingJson\\user.json";
         Path path = Paths.get(location);
-        for (int index = 0; index < users.size(); index++) {
-            users.get(index).setName("Sulty");
-            users.get(index).setUsername("BetLord");
-            users.get(index).setEmail("sultbet@sulty.com");
-            users.get(index).setPhoneNumber("777777777777777");
-            users.get(index).setWebsite("betking.com.ng");
+        for (User value : users) {
+            value.setName("Sulty");
+            value.setUsername("BetLord");
+            value.setEmail("sultbet@sulty.com");
+            value.setPhoneNumber("777777777777777");
+            value.setWebsite("betking.com.ng");
         }
         try(OutputStream outputStream = Files.newOutputStream(path);
             PrintStream printStream = new PrintStream(outputStream)) {
